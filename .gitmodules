@@ -1,3 +1,6 @@
 [submodule ".deploy_git"]
 	path = .deploy_git
-	url = D:/Project/Blog/.deploy_git
+	url = https://github.com/HareGun/Hare-Blog.git
+[submodule "themes/butterfly"]
+	path = themes/butterfly
+	url = https://github.com/jerryc127/hexo-theme-butterfly.git
