@@ -20,7 +20,19 @@ title: 收集一些奇奇怪怪的元器件
 
 <img src="hardware-related/image-20210201231059564.png" alt="image-20210201231059564" style="zoom:50%;" />
 
+# MP6536 - 三相半桥驱动器
 
+26V，5.5A，5x5mm小尺寸，适合作为云台电机驱动
+
+<img src="hardware-related/image-20210219231917800.png" alt="image-20210219231917800" style="zoom:50%;" />
+
+
+
+# DRV8313 - 三相半桥驱动器
+
+60V，2.5A，适合作为云台电机驱动
+
+<img src="hardware-related/image-20210219232451861.png" alt="image-20210219232451861" style="zoom:50%;" />
 
 # RT6150 - 单锂电池自动升降压芯片
 
